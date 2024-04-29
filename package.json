@@ -1,0 +1,12 @@
+{
+  "name": "kb-backend-week-2",
+  "version": "1.0.0",
+  "description": "Это стартовый архив для второй проектной работы по бэкенду.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
